@@ -6,7 +6,7 @@ int res[1000000];
 int leader, slave;
 
 int main() {
-    int ans = 0;
+    long long ans = 0;
     cin >> n;
 
     for(int i = 0; i < n; i++) {
