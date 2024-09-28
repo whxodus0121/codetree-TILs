@@ -47,4 +47,3 @@ for _ in range(m) :
     grow()
     make_new_medi()
 print(sum(map(sum, maps)))
-출처: https://magentino.tistory.com/393 [마젠티노 IT개발스토리:티스토리]
